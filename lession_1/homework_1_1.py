@@ -72,3 +72,4 @@ print(height_kids2, type(height_kids2))
 
 Число = 10
 #Работает
+
